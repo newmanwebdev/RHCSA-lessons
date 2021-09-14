@@ -1,0 +1,24 @@
+#RHCSA Lesson 3 AND EXCERSIZE
+
+##Lesson 3: Essential File Management Tools
+
+1. Understanding Linux file system layout
+2. Essential file management tasks
+3. Finding files
+4. Understanding links
+5. Working with links
+6. Working with tar
+
+##Exercise 3
+
+1. Create a test directory
+2. Copy all files that start with a, e, and i from /etc to /test
+3. Create a subdirectory called a-files in the test folder
+4. Move all files that start with a from test to a-files folder
+5. Copy /etc/host to /test
+6. Make a symbolic link with the name /test/myhosts that points to /etc/host
+7. Create a compressed arcive that contains /test
+8. Delete the test folder
+9. Restore the test folder from compressed folder
+
+

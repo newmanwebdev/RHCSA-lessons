@@ -1,0 +1,32 @@
+#RHCSA Lesson 1 AND EXERCISE
+
+##Computer Requirements
+
+1. 1gb ram
+2. optical drive either real or virtual
+3. 20gb hdd real or virtual
+4. Working network connection or virtual bridge connection
+5. Rhel 7 or equivalent like CentOS 7
+
+##Module 1
+
+1. Installation
+2. Using essential tools
+3. Essential file management tools
+4. Working with text files
+5. Connecting to a Rhel Server
+6. Managing user and groups
+7. Connecting to an LDAP server
+8. Managing Permissions
+9. Configuring Networking
+
+## Exersize 1
+
+1. Install CentOS Desktop version
+2. Configure 10gb root folder
+3. Use a 1gb swap folder
+4. Do not create more partitions yet and keep at least 4gb of unused disk space
+5. Set user to user 
+6. Set root password to password
+7. Configure with DHCP
+

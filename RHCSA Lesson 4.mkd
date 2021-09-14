@@ -1,0 +1,15 @@
+# Lesson 4: Working with Text Files
+
+1. Understanding regular expressions
+2. Using comon text tools (tail, head, tr, cut, sort)
+3. Working with grep
+4. Sed and awk basics
+
+##Exercise 4
+
+1. Use head and tail to display the fifth line of the file /etc/passwd
+2. Use sed to display the fifth line of the file /etc/passwd
+3. Use awk in a pipe to filter the first column out of the results of the command ps aux
+4. Use grep to show the names of all files in /etc that have lines starting with text 'root'
+5. Use grep to show all the lines from all files in /etc that contain exactly 3 characters
+

@@ -1,0 +1,23 @@
+#RHCSA Lesson 2 AND EXERCISE
+
+##Module 2
+
+1. Using man
+2. Understanding vim
+3. Editing text files with vim
+4. Understanding Globbing*
+5. Ussing Globbing and Wildcards
+6. Understanding I/O redirection and pipes
+7. Using I/O redirection and pipes
+
+
+*Globbing= (also called wildcards) used to match file names (man page= man 7 glob)
+
+##Exercise 2
+
+1. Locate the right man page for info on how to set a password
+2. Use the man page for useradd and create the user Lisa
+3. Set Lisa's password to password
+4. Make /etc your active directory
+5. Use globbing and ls to show all files in the /etc folder that have a number in their name
+6. Still in the /etc folder use command ls -l and use a pipe to display the results page by page
