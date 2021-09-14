@@ -1,0 +1,18 @@
+#RHCSA Lesson 6
+
+1. Understanding the need for users
+2. Understanding user properties
+3. Creating and managing users
+4. Understanding group membership
+5. Creating and managing groups
+6. User and group configuration files
+7. Managing password properties
+
+
+##Exersice 6
+
+1. Creat a user named lisa
+2. Set the password for user lisa to password
+3. Create a group sales
+4. Make sure lisa is a member of the group sales but dont change primary group membership
+5. Set the password for lisa to expire after 90 days

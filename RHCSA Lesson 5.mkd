@@ -1,0 +1,14 @@
+#RHCSA LESSON 5
+
+1. Opening local shells (including virtual consoles)
+2. Connecting to a server with ssh
+3. Understanding ssh keys
+4. Using ssh keys
+
+
+##Exersice 5
+
+1. Open a virtual console and log in on that console as user root
+2. Establish an ssh session to log in to localhost; type exit to close the ssh session
+3. Back in the virtual console, create an ssh key pair
+4. Use the ssh key pair to log in to localhost without having to enter a password
