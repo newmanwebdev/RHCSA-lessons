@@ -1,0 +1,10 @@
+#LESSON 26
+
+1. Understanding vnc
+2. configuring a vnc server
+3. connecting to a vnc server
+
+##EXERCISE 26
+
+1. Configure a vnc server that makes a session available for the user laura on your computer. Create user account if it doesnt exist.
+2. Use vncviewer to establish a session to the vnc server. You can establish the session on localhost if you dont have an additional linux computer available.

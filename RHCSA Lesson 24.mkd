@@ -1,0 +1,8 @@
+#LESSON 24
+
+1. Understanding ftp configuration
+2. Configuring an ftp server for anonymous downloads
+
+##Exercise 24
+
+Configuring an ftp server for anonymous downloads. Make sure it is enabled in your default firewall zone and SELinux doesn't block anonymous downloads.

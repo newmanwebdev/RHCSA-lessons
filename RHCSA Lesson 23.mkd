@@ -1,0 +1,11 @@
+#LESSON 23
+
+1. Understanding firewall configuration
+2. Using firewalld
+
+##EXERCISE 23
+
+Configure a netfilter firewall, using the firewall-cmd utility. Make sure this firewall meets the following requirements:
+
+1. uses the dmz zone
+2. allows traffic to ssh, ntp, ftp, vnc, apache, dns

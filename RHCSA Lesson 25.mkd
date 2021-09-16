@@ -1,0 +1,8 @@
+#LESSON 25
+
+1. Understanding time on linux
+2. setting up a chrony time server
+
+##EXERCISE 25
+
+set up time services to sincronize time with server.rhatcertification.com
