@@ -1,0 +1,18 @@
+#LESSON 19
+
+1. Boot procedure generic overview
+2. Understanding grub 2
+3. Modifying grub2 perameters
+4. Understanding systemd
+5. Managing services in a systemd environment
+6. Understanding systemd targets
+7. Switching between systemd targets
+8. Managing file systom mounts in a systemd environment
+9. Managing automount in a systemd environment
+
+##Exersice 19
+
+1. Restart your server
+2. At the grub boot prompt, interrupt your system and enter emergency target mode
+3. From the emergency target, switch to the graphical target
+4. Create a 1gb logical volume and create a systemd automount configuration that mounts it on /test automatically when the directory is accessed
