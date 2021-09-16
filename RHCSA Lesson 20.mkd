@@ -1,0 +1,10 @@
+#LESSON 20: APPLYING ESSENTIAL TROUBLESHOOTING SKILLS
+
+1. Changing grub parameters on boot
+2. Making grub changes persistent
+3. using rd.break to reset the root password
+4. Resetting the root password resumed
+
+##EXERCISE 20
+
+Reboot you server in troubleshooting mode and change the root password to "password"

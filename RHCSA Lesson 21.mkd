@@ -1,0 +1,28 @@
+#MODULE 4 MANAGING NETWORK SERVICES
+
+- Managing http services
+- Managing SELinux
+- Configuring a firewall
+- Configuring ftp services
+- Configuring time services
+- Configuring VNC access
+
+
+##Lesson 21
+
+1. Understanding apache configuration
+2. Creating a basic web site
+
+
+###Exersize 21
+
+1. Install http
+2. Enable http
+3. Vim into /etc/httpd/conf/httpd.conf
+4. Find where the html file is placed and then cd into it
+5. vim into index.html add hello then save and exit
+6. start http
+7. type el to see if you have elinks
+8. type elinks http://localhost to link local host
+9. type el to test
+

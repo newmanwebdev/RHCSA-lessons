@@ -1,0 +1,14 @@
+#LESSON 22 MANAGING SELINUX
+
+1. Understanding the need for SELinux
+2. Understanding SELinux modes and policy
+3. Understanding SELinux labels and booleans
+4. Using file system labels
+5. Understanding semanage fcontext and chcon differences
+6. Using boolean
+7. Analyzing SELinux log files
+8. Configuring SELinux for apache
+
+##EXERCISE 22
+
+Configure the apache web server to listen on port 888. Set up SELinux to allow apache to bind to this port.
