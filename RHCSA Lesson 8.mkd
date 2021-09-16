@@ -1,0 +1,22 @@
+#RHCSA Lesson 8
+
+1. Understanding ownership: users, groups and others
+2. Changing file ownership
+3. Understanding basic permissions
+4. Managing basic permissions
+5. understanding special permissions
+6. Managing special permissions
+7. Understanding ACLs
+8. Managing ACLs
+
+
+## Lesson 8
+
+Set up an environment for shared data groups. Make sure it meets the following requirements
+
+1. Create four users: Caroline, Lisa,Lori and Bob
+2. Create two groups: sales and account
+3. Make Lisa and Caroline members of the group sales
+4. Make Lori and Bob member of the group account
+5. Create the directory /data/sales wehre members of the group sales can read and write files, and members of account can only read files
+6. Create the directory /data/account where members of the group account can read and write files, and members of sales can only read files

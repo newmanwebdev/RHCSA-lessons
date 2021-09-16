@@ -1,0 +1,14 @@
+#LESSON 12 WORKING WITH VIRTUAL MACHINES
+
+1. Introducing KVM virtualization
+2. Managing Libvirt and KVM
+3. Using virsh
+4. Using virt-manager
+
+##EXERCISE 12
+
+1. Install all KVM software packages on your server { yum install -y kvm libvirt virt-manager qemu-kvm}
+2. Create a small virtual machine using virt-manager
+3. Activate the virtual machine window
+4. Release the mouse cursor from the virtual machine
+5. Use the virsh command to stop the virtual machine you've just created

@@ -1,0 +1,17 @@
+#RHCSA Lesson 7
+
+1. Understanding LDAP
+2. Setting up LDAP authentication
+3. Understanding automount
+4. configuring automount
+5. configuring NFS and automount
+6. Modifying nslcd configuration
+
+
+## Exercise
+
+1. Connect your server to the LDAP server server.rhatcertification.com
+    1. The TLS certificate is on ftp://server.rhatcertification.com/
+
+2. Use su - ldapuser[1-5] to test connection to the LDAP server
+3. Set up automount to connect the home directories using the Samba share at //server.rhatcertification.com/data

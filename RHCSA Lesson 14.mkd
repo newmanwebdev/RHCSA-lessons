@@ -1,0 +1,14 @@
+#LESSON 14: CONFIGURING LOGGING 
+
+1. Understanding rsyslogd and journald logging
+2. Integrating rsyslogd and journald
+3. Configuring rsyslog logging
+4. Working with journald
+5. Understanding logrotate
+6. Configuring logrotate
+
+##EXERCISE 14
+
+1. Open a shell where you log in as user Caroline. From the Caroline shell, type su and enter a wrong password
+2. Display the messages that were logged due to this event in journald as well as in syslog
+3. Configure logrotate to keep log files for a month, while keeping the last 6 log files

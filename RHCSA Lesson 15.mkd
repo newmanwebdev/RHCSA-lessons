@@ -1,0 +1,20 @@
+#LESSON 15: MANAGING PARTITIONS
+
+1. Understanding disk layout
+2. Creating partitions
+3. Understanding file system differences
+4. Making the file system
+5. Mounting the partition manually
+6. Understanding /etc/fstab
+7. Mounting partitions via /etc/fstab
+8. Understanding encrypted partition
+9. Creating a LUKS encrypted partition
+10. Dealing with "Enter roo password for maintenance mode
+
+
+##EXERCISE 15
+
+1. Create a 1gb ext4 logical partition
+2. Make sure this partition is mounted on /data
+3. Create a 1gb logical partition and make that a LUKS encrypted partition. Use the passphrase "secret" and give it an XFS file system
+4. Mount the encrypted partition automatically on /secret. You will need to provide the passphrase while booting

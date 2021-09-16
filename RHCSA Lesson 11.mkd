@@ -1,0 +1,17 @@
+#LESSON 11 MANAGING SOFTWARE
+
+1. Understanding meta package handlers
+2. Setting up yum repositories
+3. using the yum command
+4. Using rpm queries
+
+
+##EXERCISE 11
+
+1. Create a directory /downloads and us cd /downloads to make it you current directory
+2. Use wget ftp://server.rhatcertification.com/pub/packages.tgz to download some example packages
+3. Extract the packages into /downloads
+4. Configure your server to use the /downloads directory as a repository. To start with, use createrepo /downloads to make indexes
+5. Use repoquery to request information about one of the packeges in the new repository and install it
+
+    

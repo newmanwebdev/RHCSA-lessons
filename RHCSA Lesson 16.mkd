@@ -1,0 +1,14 @@
+#LESSON 16: MANAGING LVM LOGICAL VOLUMES
+
+1. Why use LVM
+2. Understanding LVM setup
+3. Creating an LVM logical volume
+4. Understanding device mapper and LVM device names
+5. Understanding LVM logical volume resize operations
+6. Growing an LVM logical volume
+7. Shrinking an LVM logical volume
+
+##EXERCISE 16
+
+1. Create a 1gb LVM volume, format it with XFS file system and mount it on /groups
+2. Grow the volume and its file system to 2gb

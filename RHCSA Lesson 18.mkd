@@ -1,0 +1,15 @@
+#LESSON 18: USING KICKSTART
+
+1. Understanding kickstart usage
+2. Creating a kickstart file
+3. Using the kickstart file for automatic installations
+4. Using kickstart files in fully automated datacenters
+
+
+##EXERCISE 18
+
+Modify the anaconda-ks.cfg file to meet the following requirements:
+
+1. The installer prompts for a password
+2. Network connectivity will be enabled on boot
+3. The local machine name is set to "server1.example.com"

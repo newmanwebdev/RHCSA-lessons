@@ -1,0 +1,31 @@
+#MODULE 2: OPERATING RED HAT ENTERPRISE LINUX SERVERS
+
+- Lesson 10: Managing processes
+- Lesson 11: Managing software
+- Lesson 12: Working with virtual machines
+- Lesson 13: Scheduling tasks
+- Lesson 14: Configuring logging
+- Lesson 15: Managing partitions
+- Lesson 16: Managing LVM logical volumes
+
+#LESSON 10
+
+1. Understanding jobs and processes
+2. Managing shell jobs
+3. Getting process information with ps
+4. Understanding memory usage
+5. Understanding performance load
+6. Monitoring system activity with top
+7. Sending signals to processes
+8. Understanding priorities and niceness
+9. Changing process nice values
+
+#EXERCISE 10
+
+1. Type the following command: dd if=/dev/zero of=/dev/null . Change it from a foreground job to a background job.
+2. Run the preceding command 3 more times, but start them directly as a background job
+3. Use jobs to get information about current background jobs
+4. from top, perform the following tasks
+    - Adjust the niceness of one of the dd commands to -5. observe what happens
+    - Send a sigkill signal to top. Observe what happens
+5. From the command line, terminate all remaining dd processes

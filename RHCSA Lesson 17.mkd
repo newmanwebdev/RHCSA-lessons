@@ -1,0 +1,24 @@
+#MODULE 3
+
+1. Lesson 17: Managing the kernel
+2. Lesson 18: Using kickstart
+3. Lesson 19: Managing and understanding the boot procedure
+4. Lesson 20: Applying essential troubleshooting skills
+
+
+##LESSON 17: MANAGING THE KERNEL
+
+1. Understanding the modular structure of the kernel
+2. Working with kernel modules
+3. Modifying kernel module behavior through modprobe
+4. Tuning kernel behavior through /proc
+5. Using sysctl
+6. Updating the kernel
+
+
+###EXERCISE 17
+
+1. Show a list of all kernel modules
+2. Request available parameters for the iwlwifi module
+3. Make sure the iwlwifi module sets the led_mode to 1
+4. Load the iwlwifi module and verify that the load option has been used

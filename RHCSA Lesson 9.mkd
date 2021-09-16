@@ -1,0 +1,23 @@
+#RHCSA Lesson 9: Configuring Networking
+
+1. Understanding NIC naming
+2. Managing NIC configuration with the ip command
+3. Storing network configuration persistently
+4. Understanding network manager
+5. Using network manager utilities (nmcli, nm-tool)
+6. Understanding routing and DNS
+7. Configuring routing and DNS
+8. Understanding network analysis tools
+9. Using network analysis tools
+
+#Exercise 9
+
+Set your network interface to use the following configuration.
+Make sure to apply the configuration persistently:
+
+1. IP address: 10.0.0.29/24
+2. Router: 10.0.0.254
+3. Dns server: 10.0.0.254
+4. Change your host name to server29
+
+Verify that this configuration works. After verifying, restore the original network settings to use DHCP because without it other network related exercises won't work.
